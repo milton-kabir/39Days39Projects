@@ -20,5 +20,5 @@ Rules:
 | 03      | [Simple Tic-Tac-Toe](https://github.com/milton-kabir/SimpleTicTacToe) |
 | 04      | [Cinema Room Manager](https://github.com/milton-kabir/CinemaRoomManager) |
 | 05      | [Coffee Machine](https://github.com/milton-kabir/CoffeeMachine) |
-
+| 06      | [Bulls and Cows](https://github.com/milton-kabir/BullsAndCows) |
 
