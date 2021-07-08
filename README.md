@@ -21,4 +21,5 @@ Rules:
 | 04      | [Cinema Room Manager](https://github.com/milton-kabir/CinemaRoomManager) |
 | 05      | [Coffee Machine](https://github.com/milton-kabir/CoffeeMachine) |
 | 06      | [Bulls and Cows](https://github.com/milton-kabir/BullsAndCows) |
+| 07      | [Number Base Converter](https://github.com/milton-kabir/NumberBaseConverter) |
 
