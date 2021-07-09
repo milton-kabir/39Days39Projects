@@ -22,4 +22,5 @@ Rules:
 | 05      | [Coffee Machine](https://github.com/milton-kabir/CoffeeMachine) |
 | 06      | [Bulls and Cows](https://github.com/milton-kabir/BullsAndCows) |
 | 07      | [Number Base Converter](https://github.com/milton-kabir/NumberBaseConverter) |
+| 08      | [Numeric Matrix Processor](https://github.com/milton-kabir/NumericMatrixProcessor) |
 
