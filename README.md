@@ -24,4 +24,4 @@ Rules:
 | 07      | [Number Base Converter](https://github.com/milton-kabir/NumberBaseConverter) |
 | 08      | [Numeric Matrix Processor](https://github.com/milton-kabir/NumericMatrixProcessor) |
 | 09      | [Readability Score](https://github.com/milton-kabir/ReadabilityScore) |
-
+| 10      | [Error Correcting Encoder-Decoder](https://github.com/milton-kabir/ErrorCorrectingEncoderDecoder) |
