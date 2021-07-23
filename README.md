@@ -26,3 +26,4 @@ Rules:
 | 09      | [Readability Score](https://github.com/milton-kabir/ReadabilityScore) |
 | 10      | [Error Correcting Encoder-Decoder](https://github.com/milton-kabir/ErrorCorrectingEncoderDecoder) |
 | 11      | [Tic-Tac-Toe with AI](https://github.com/milton-kabir/TicTacToewithAI) |
+| 12      | [Encryption-Decryption](https://github.com/milton-kabir/EncryptionDecryption) |
