@@ -27,3 +27,4 @@ Rules:
 | 10      | [Error Correcting Encoder-Decoder](https://github.com/milton-kabir/ErrorCorrectingEncoderDecoder) |
 | 11      | [Tic-Tac-Toe with AI](https://github.com/milton-kabir/TicTacToewithAI) |
 | 12      | [Encryption-Decryption](https://github.com/milton-kabir/EncryptionDecryption) |
+| 13      | [Battleship](https://github.com/milton-kabir/Battleship) |
