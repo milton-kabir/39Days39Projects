@@ -28,3 +28,4 @@ Rules:
 | 11      | [Tic-Tac-Toe with AI](https://github.com/milton-kabir/TicTacToewithAI) |
 | 12      | [Encryption-Decryption](https://github.com/milton-kabir/EncryptionDecryption) |
 | 13      | [Battleship](https://github.com/milton-kabir/Battleship) |
+| 14      | [Minesweeper](https://github.com/milton-kabir/Minesweeper) |
