@@ -13,23 +13,23 @@ Rules:
 
 # Projects List
 
-| Day           | Project       |
-| :-----------: |:-------------:|
-| 01      | [Simple Chatty Bot](https://github.com/milton-kabir/SimpleChattyBot) |
-| 02      | [Amazing Numbers](https://github.com/milton-kabir/AmazingNumbers) |
-| 03      | [Simple Tic-Tac-Toe](https://github.com/milton-kabir/SimpleTicTacToe) |
-| 04      | [Cinema Room Manager](https://github.com/milton-kabir/CinemaRoomManager) |
-| 05      | [Coffee Machine](https://github.com/milton-kabir/CoffeeMachine) |
-| 06      | [Bulls and Cows](https://github.com/milton-kabir/BullsAndCows) |
-| 07      | [Number Base Converter](https://github.com/milton-kabir/NumberBaseConverter) |
-| 08      | [Numeric Matrix Processor](https://github.com/milton-kabir/NumericMatrixProcessor) |
-| 09      | [Readability Score](https://github.com/milton-kabir/ReadabilityScore) |
-| 10      | [Error Correcting Encoder-Decoder](https://github.com/milton-kabir/ErrorCorrectingEncoderDecoder) |
-| 11      | [Tic-Tac-Toe with AI](https://github.com/milton-kabir/TicTacToewithAI) |
-| 12      | [Encryption-Decryption](https://github.com/milton-kabir/EncryptionDecryption) |
-| 13      | [Battleship](https://github.com/milton-kabir/Battleship) |
-| 14      | [Minesweeper](https://github.com/milton-kabir/Minesweeper) |
-| 15      | [Simple Banking System](https://github.com/milton-kabir/SimpleBankingSystem) |
-| 16      | [Flashcards](https://github.com/milton-kabir/Flashcards) |
-| 17      | [Phone Book](https://github.com/milton-kabir/PhoneBook) |
-| 18      | [Linear Equations Solver](https://github.com/milton-kabir/LinearEquationsSolver) |
+| Day           | Date           | Project       |
+| :-----------: |:-------------:|:-------------:|
+| 01      | Jul 2, 2021| [Simple Chatty Bot](https://github.com/milton-kabir/SimpleChattyBot) |
+| 02      | Jul 3, 2021|[Amazing Numbers](https://github.com/milton-kabir/AmazingNumbers) |
+| 03      |Jul 4, 2021| [Simple Tic-Tac-Toe](https://github.com/milton-kabir/SimpleTicTacToe) |
+| 04      |Jul 5, 2021| [Cinema Room Manager](https://github.com/milton-kabir/CinemaRoomManager) |
+| 05      | Jul 6, 2021|[Coffee Machine](https://github.com/milton-kabir/CoffeeMachine) |
+| 06      |Jul 7, 2021| [Bulls and Cows](https://github.com/milton-kabir/BullsAndCows) |
+| 07      |Jul 8, 2021| [Number Base Converter](https://github.com/milton-kabir/NumberBaseConverter) |
+| 08      |Jul 9, 2021| [Numeric Matrix Processor](https://github.com/milton-kabir/NumericMatrixProcessor) |
+| 09      | Jul 10, 2021|[Readability Score](https://github.com/milton-kabir/ReadabilityScore) |
+| 10      | Jul 12, 2021|[Error Correcting Encoder-Decoder](https://github.com/milton-kabir/ErrorCorrectingEncoderDecoder) |
+| 11      |Jul 13, 2021| [Tic-Tac-Toe with AI](https://github.com/milton-kabir/TicTacToewithAI) |
+| 12      |Jul 23, 2021| [Encryption-Decryption](https://github.com/milton-kabir/EncryptionDecryption) |
+| 13      |Jul 24, 2021| [Battleship](https://github.com/milton-kabir/Battleship) |
+| 14      |Jul 25, 2021| [Minesweeper](https://github.com/milton-kabir/Minesweeper) |
+| 15      |Jul 27, 2021| [Simple Banking System](https://github.com/milton-kabir/SimpleBankingSystem) |
+| 16      | Jul 31, 2021|[Flashcards](https://github.com/milton-kabir/Flashcards) |
+| 17      |Aug 2, 2021| [Phone Book](https://github.com/milton-kabir/PhoneBook) |
+| 18      |Aug 5, 2021| [Linear Equations Solver](https://github.com/milton-kabir/LinearEquationsSolver) |
