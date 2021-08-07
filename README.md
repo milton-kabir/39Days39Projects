@@ -33,3 +33,8 @@ Rules:
 | 16      | Jul 31, 2021|[Flashcards](https://github.com/milton-kabir/Flashcards) |
 | 17      |Aug 2, 2021| [Phone Book](https://github.com/milton-kabir/PhoneBook) |
 | 18      |Aug 5, 2021| [Linear Equations Solver](https://github.com/milton-kabir/LinearEquationsSolver) |
+| 19      |Aug 7, 2021| [Budget Manager](https://github.com/milton-kabir/BudgetManager) |
+
+
+
+
