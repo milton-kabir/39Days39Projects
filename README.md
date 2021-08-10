@@ -13,7 +13,7 @@ Rules:
 
 # Projects List
 
-| Day           | Date           | Project       |
+| Serial          | Date           | Project       |
 | :-----------: |:-------------:|:-------------:|
 | 01      | Jul 2, 2021| [Simple Chatty Bot](https://github.com/milton-kabir/SimpleChattyBot) |
 | 02      | Jul 3, 2021|[Amazing Numbers](https://github.com/milton-kabir/AmazingNumbers) |
@@ -34,6 +34,7 @@ Rules:
 | 17      |Aug 2, 2021| [Phone Book](https://github.com/milton-kabir/PhoneBook) |
 | 18      |Aug 5, 2021| [Linear Equations Solver](https://github.com/milton-kabir/LinearEquationsSolver) |
 | 19      |Aug 7, 2021| [Budget Manager](https://github.com/milton-kabir/BudgetManager) |
+| 20      |Aug 10, 2021| [Cinema Room REST Service](https://github.com/milton-kabir/CinemaRoomRESTService) |
 
 
 
