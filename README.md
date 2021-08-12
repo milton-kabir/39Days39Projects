@@ -35,6 +35,7 @@ Rules:
 | 18      |Aug 5, 2021| [Linear Equations Solver](https://github.com/milton-kabir/LinearEquationsSolver) |
 | 19      |Aug 7, 2021| [Budget Manager](https://github.com/milton-kabir/BudgetManager) |
 | 20      |Aug 10, 2021| [Cinema Room REST Service](https://github.com/milton-kabir/CinemaRoomRESTService) |
+| 21      |Aug 12, 2021| [Simple Search Engine](https://github.com/milton-kabir/SimpleSearchEngine) |
 
 
 
