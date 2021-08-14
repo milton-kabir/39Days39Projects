@@ -37,7 +37,7 @@ Rules:
 | 20      |Aug 10, 2021| [Cinema Room REST Service](https://github.com/milton-kabir/CinemaRoomRESTService) |
 | 21      |Aug 12, 2021| [Simple Search Engine](https://github.com/milton-kabir/SimpleSearchEngine) |
 | 22      |Aug 13, 2021| [Sorting Tool](https://github.com/milton-kabir/SortingTool) |
-
+| 23      |Aug 14, 2021| [Maze Runner](https://github.com/milton-kabir/MazeRunner) |
 
 
 
