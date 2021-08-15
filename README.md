@@ -38,6 +38,7 @@ Rules:
 | 21      |Aug 12, 2021| [Simple Search Engine](https://github.com/milton-kabir/SimpleSearchEngine) |
 | 22      |Aug 13, 2021| [Sorting Tool](https://github.com/milton-kabir/SortingTool) |
 | 23      |Aug 14, 2021| [Maze Runner](https://github.com/milton-kabir/MazeRunner) |
+| 24      |Aug 15, 2021| [Smart Calculator](https://github.com/milton-kabir/SmartCalculator) |
 
 
 
