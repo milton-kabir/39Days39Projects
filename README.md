@@ -39,6 +39,6 @@ Rules:
 | 22      |Aug 13, 2021| [Sorting Tool](https://github.com/milton-kabir/SortingTool) |
 | 23      |Aug 14, 2021| [Maze Runner](https://github.com/milton-kabir/MazeRunner) |
 | 24      |Aug 15, 2021| [Smart Calculator](https://github.com/milton-kabir/SmartCalculator) |
-
+| 25      |Aug 17, 2021| [Contacts](https://github.com/milton-kabir/-Contacts) |
 
 
